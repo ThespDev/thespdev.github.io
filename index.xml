@@ -17,5 +17,24 @@
 print(&amp;#34;Hello world!&amp;#34;) </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I&amp;rsquo;m Pablo (ThespDev), a third year computer science student interested in Graphs, Functional Programming and Networks, as well a general interst in mathematics and computers as whole.
+On this site you can read my ramblings in my Blog , or see my projects (university and personal).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/projects/helloworld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/helloworld/</guid>
+      <description>#include &amp;lt;stdio.h&amp;gt;int main(int argc, char *argv[]){ printf(&amp;#34;Hello world\n&amp;#34;); return 0; } </description>
+    </item>
+    
   </channel>
 </rss>
